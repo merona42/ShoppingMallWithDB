@@ -1,8 +1,9 @@
 # ShoppingMallWithDB
+스프링 Intellij로 구현한 Db가 연동된 쇼핑몰이다.<br>
 <b>[홈화면]</b>
 <img src="https://github.com/merona42/ShoppingMallWithDB/assets/140749669/1b02e3ed-be19-46b7-822a-38fe588c9b11">
 
-각버튼을 누르면 해당 창으로 이동한다.
+각버튼을 누르면 해당 창으로 이동한다.<br>
 <b>[회원가입]</b>
 <img src="https://github.com/merona42/ShoppingMallWithDB/assets/140749669/30b3acc5-bb01-48ea-8add-94ab08fead08">
 <b>[회원목록]</b>
